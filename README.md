@@ -1,7 +1,3 @@
-# Contestant Client App
-
-A part of [Skild](https://www.skild.com/) applications. Contestants of the event log into this application to review the reviews, form teams, and submit their entry.
-
 ## Tech Stack
 
 - The app is written in React
